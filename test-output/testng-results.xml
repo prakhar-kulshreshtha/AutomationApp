@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ChatTestSuite" duration-ms="29695" started-at="2017-02-08T07:59:07Z" finished-at="2017-02-08T07:59:37Z">
+    <groups>
+    </groups>
+    <test name="Sample test1" duration-ms="29695" started-at="2017-02-08T07:59:07Z" finished-at="2017-02-08T07:59:37Z">
+      <class name="testCases.SampleTest1">
+        <test-method status="PASS" signature="checkprecondition()[pri:0, instance:testCases.SampleTest1@1e4ea55]" name="checkprecondition" is-config="true" duration-ms="29678" started-at="2017-02-08T13:29:07Z" finished-at="2017-02-08T13:29:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkprecondition -->
+        <test-method status="PASS" signature="sampleTestcase()[pri:0, instance:testCases.SampleTest1@1e4ea55]" name="sampleTestcase" duration-ms="0" started-at="2017-02-08T13:29:37Z" finished-at="2017-02-08T13:29:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestcase -->
+      </class> <!-- testCases.SampleTest1 -->
+    </test> <!-- Sample test1 -->
+  </suite> <!-- ChatTestSuite -->
+</testng-results>
